@@ -1,80 +1,66 @@
 * {
   box-sizing: content-box;
 }
-
 body {
-  width: 90%;
+  width: 85%;
   margin: auto;
   background-image: url(../img/sfondo.jpg);
   background-size: cover;
 }
-
 header {
   margin-top: 20px;
   margin-bottom: 20px;
 }
-
 .logo_gmail {
   vertical-align: middle;
 }
-
 .titolo {
   font-size: 30px;
   color: white;
   vertical-align: middle;
   margin: 10px;
 }
-
 nav {
   border-top: 1px solid white;
   border-bottom: 1px solid white;
   padding-top: 8px;
   padding-bottom: 16px;
 }
-
 .search_box {
   width: 135px;
 }
-
 .unread {
   margin-top: 20px;
   font-size: 30px;
   color: white;
 }
-
 .counter {
   background-color: orange;
   border-radius: 50%;
   padding: 8px;
 }
-
 main {
   margin-top: 8px;
   margin-bottom: 8px;
 }
-
 .email_row_a {
   background-color: lightgrey;
   border: 1px solid black;
   padding-top: 3px;
   padding-bottom: 3px;
 }
-
 .email_row_b {
   background-color: white;
   border: 1px solid black;
   padding-top: 3px;
   padding-bottom: 3px;
 }
-
 .oggetto {
   font-weight: 900;
 }
-
 .testo {
   color: grey;
 }
-
 footer {
   border-top: 1px solid white;
   text-align: center;
@@ -82,11 +68,9 @@ footer {
   color: white;
   padding-top: 8px;
 }
-
 .copyright {
   font-size: 25px;
 }
-
 .credits {
   font-style: italic;
 }
