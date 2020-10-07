@@ -1,0 +1,21 @@
+* {
+  box-sizing: content-box;
+}
+
+body {
+  width: 90%;
+  margin: auto;
+  background-image: url(../img/sfondo.jpg);
+  background-size: cover;
+}
+
+.logo_gmail {
+  vertical-align: middle;
+}
+
+.titolo {
+  font-size: 30px;
+  color: white;
+  vertical-align: middle;
+  margin: 10px;
+}
