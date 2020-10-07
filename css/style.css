@@ -47,3 +47,30 @@ nav {
   border-radius: 50%;
   padding: 8px;
 }
+
+main {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.email_row_a {
+  background-color: lightgrey;
+  border: 1px solid black;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.email_row_b {
+  background-color: white;
+  border: 1px solid black;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.oggetto {
+  font-weight: 900;
+}
+
+.testo {
+  color: grey;
+}
